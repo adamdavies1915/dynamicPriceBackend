@@ -1,0 +1,5 @@
+{
+    "users": {"user1Id": {"credits": 5}},
+    "roomPrices": {"room1": {"17-05-2019": {"0": 1, "1": 2, "2": false, "3": 2, "4": 2}}},
+    "roomDetails": {"room1": {"capacity": 4}, "room2": {"capacity": 6}, "room3": {"capacity": 3}}
+}
